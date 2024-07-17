@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hello 🌎 
+We are [Bluesight](https://bluesight.ai/), the foundational model platform company for planetary data.
+We currently enable hosted inference for the [Clay model](https://github.com/Clay-foundation/model) as well as fine-tuning and serving for downstream tasks such as classification and segmentation. Visit our [documentation](https://docs.bluesight.ai/introduction) to learn about the platform capablities.
+We will be open-sourcing new models in Q4 of 2024, if you want to influence the development direction join us on [Discord](https://discord.gg/NCg9mkz9C7) or <a href="mailto:alex@bluesight.ai">reach out directly</a>
